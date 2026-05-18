@@ -1,5 +1,5 @@
 
-# Restaurant API 🍔
+# Restaurant API 
 
 A RESTful API for managing a restaurant system built with Node.js, Express, and MongoDB.
 
